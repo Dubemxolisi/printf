@@ -1,4 +1,6 @@
-C - printf
+#0x11. C - printf
+
+* Writing our own printf function.
 
 As a consequence, be careful not to push any c file containing a main function in the root directory of your project (you could have a test folder containing all your tests files including main functions)
 Our main files will include your main header file (main.h): #include main.h
